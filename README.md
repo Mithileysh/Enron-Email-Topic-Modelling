@@ -8,4 +8,4 @@ Here is a snapshot of result obtained from LDA.
 <img width="1207" alt="screen shot 2018-06-28 at 1 11 04 am" src="https://user-images.githubusercontent.com/30159866/42023612-24d0ff36-7a75-11e8-9959-5e76aa11d452.png">
 
 
-*Note: For interactive visualization please download `pyLDAvis.html` and open in your browser.*
+
